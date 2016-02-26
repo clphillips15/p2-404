@@ -1,0 +1,49 @@
+body {
+  
+   background:rgb(9, 92, 141);
+}
+
+img {
+  
+  height:50px;
+  
+}
+
+
+#myBlock {
+   height: 50px;
+  
+}
+
+h1 { 
+ margin: 0 auto;
+ font-size: 20em;
+ text-align: center; 
+ color: white;
+ font-family: 'Bree Serif', serif;
+ letter-spacing: .05em;
+  
+}
+
+h2 {
+  font-size: 3em;
+  letter-spacing: 2em;
+  line-height: 1.5em;
+  padding-bottom: 8em;
+}
+
+div{
+  background:rgb(9, 92, 141);
+}
+  
+  
+  
+  
+
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  letter-spacing: .08em;
+  text-align: center;
+  font-si
