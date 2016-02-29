@@ -1,1 +1,0 @@
-$('#myBlock').vide('https://raw.githubusercontent.com/VodkaBears/Vide/master/examples/video/ocean.jpg');
